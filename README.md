@@ -1,1 +1,1 @@
-# Loan-Approval-in-R
+# Loan-Approval-in-R using logistic regression
